@@ -21,7 +21,8 @@ Stakeholder Questions to be Answered:
 <li>Which snack combinations are the least and most favoured by the children?</li>
 </ol>
 
-I started parts 1 and 2 by creating a questionnaire to distribute to the children in the centre. Which can be viewed <a href= "https://github.com/KyleGFalk/DCC-Snack-Menu-Project/blob/main/September_Snack_Questionnaire.txt">here</a>. I was able to achieve a 97% confidence level with a 1% margin of error with the daycares population of 311 children. I entered the results of the questionnaires into Excel, resulting in a dataset. I then queried the data set in SQL, and created dashboards for the stakeholder.
+I started parts 1 and 2 by creating a questionnaire to distribute to the children in the centre. Which can be viewed <a href= "https://github.com/KyleGFalk/DCC-Snack-Menu-Project/blob/main/September_Snack_Questionnaire.txt">here</a>. I was able to achieve a 97% confidence level with a 1% margin of error with the daycares population of 311 children. I entered the results of the questionnaires into Excel, resulting in a <a href= "https://github.com/KyleGFalk/DCC-Snack-Menu-Project/blob/main/September_2022_Snack_Data.xlsx
+">dataset</a>. I then queried the data set in SQL, and created dashboards for the stakeholder.
 
 <a href= "https://github.com/KyleGFalk/Data-Cleaning-In-SQL/blob/main/Data%20Cleaning%20Project.sql">SQL queries can be viewed here.</a>
 
