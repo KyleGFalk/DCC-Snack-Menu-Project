@@ -39,7 +39,7 @@ I started parts 1 and 2 by creating a questionnaire to distribute to the childre
 ## Part 3
 
 After obtaining the results of parts 1 and 2 I was able to identify the least favoured snack combinations and replace them with new combinations, which were more cost effective. We tested the new combinations in place of the least favoured combinations for ~3 months. I then created a new <a href= "https://github.com/KyleGFalk/DCC-Snack-Menu-Project/blob/main/September_2022_Snack_Data.xlsx
-">questionnaire</a> to re-evaluate how often the children eat the snack with these new combinations, and which were the most and least favoured! After entering the results into Excel I used SQL to query my new dataset, and created a final <a href= "https://public.tableau.com/app/profile/kyle4763/viz/DCCSnackMenuProjectPart3/Dashboard1">dashboard</a> for my stakeholder!
+">questionnaire</a> to re-evaluate how often the children eat the snack with these new combinations, and which were the most and least favoured! After entering the results into Excel I used SQL to query my new <a href= "https://github.com/KyleGFalk/DCC-Snack-Menu-Project/blob/main/December2022_Snack_Data.xlsx">dataset</a>, and created a final <a href= "https://public.tableau.com/app/profile/kyle4763/viz/DCCSnackMenuProjectPart3/Dashboard1">dashboard</a> for my stakeholder!
 
 ## Results of Part 3
 
