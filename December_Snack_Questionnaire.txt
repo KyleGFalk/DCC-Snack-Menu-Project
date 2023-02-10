@@ -1,0 +1,11 @@
+﻿1. How often do you eat the snack provided by the daycare?
+Everyday
+Some days
+Never
+
+
+2. Of the new snack combinations listed below, which do you like? (select all that apply)
+Yogurt, Cheerios, Apples/Oranges
+Muffins, Applesauce, Cheese
+Overnight Oats
+Banana Bread,  Cheese, Apples/Oranges
