@@ -1,0 +1,20 @@
+﻿1. How often do you eat the snack provided by the daycare?
+Everyday
+Some days
+Never
+
+
+2. If you answered “Never” for question 1, why?
+Not hungry
+Don’t like the snack provided
+
+
+3. Which snack combinations do you Like? (choose all that apply)
+Bread, Cheese, Apples/Oranges
+Pasta Salad, Milk
+Bread, Sunbutter, Milk
+Crackers, Cheese, Apples/Oranges
+Egg Salad, Bread, Apples/Oranges
+Breakfast bars, Milk, Apples/Oranges
+Pizza Buns, Pineapple
+Pita, Cheese, Cucumber
