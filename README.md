@@ -44,16 +44,6 @@ After obtaining the results of parts 1 and 2 I was able to identify the least fa
 * <b>After the new combinations were instated only 80 children of the 303 reported that they never eat the snack! Which is a decrease from 41% to 26%!</b>
 * Of the 4 new combinations 2 were very successful with over 67% of children liking the combination: yogurt, cheerios, apples/oranges and muffins, applesauce, cheese.
 
-</p>
-
-<p align="center">
-<img src="https://nccid.ca/wp-content/uploads/sites/2/2020/06/iStock-1203426591-scaled.jpg"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
-  </a>
-</p>
-
 ## Conclusion
 
 The results of part 3 were astounding! The centre was able to incorporate 2 new snack menu options which were more cost effective, along with being more enjoyed by the children! Because of this project the centre was able to save 20% of food costs by cutting out unwanted items that were producing $5,000 in food waste each month! I am very happy to have worked on a project that made a genuine difference in chidrens lives!
